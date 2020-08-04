@@ -1,2 +1,2 @@
-# http://portfolio.github.io
+# portfolio.github.io
 My personal website
